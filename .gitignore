@@ -1,0 +1,23 @@
+# Nintendo data: never commit
+key1.bin
+*.bin
+*.rom
+backups/
+
+# Games and saves
+*.nds
+*.dsi
+*.srl
+*.sav
+*.dsv
+
+# Emulators and downloads
+desmume*/
+*.exe
+*.dll
+*.zip
+*.7z
+
+# Python
+__pycache__/
+*.pyc
